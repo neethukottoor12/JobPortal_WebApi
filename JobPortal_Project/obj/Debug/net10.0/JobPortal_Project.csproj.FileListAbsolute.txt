@@ -1,0 +1,852 @@
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\appsettings.Development.json
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\appsettings.json
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.staticwebassets.endpoints.json
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.exe
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.deps.json
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.runtimeconfig.json
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.pdb
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Azure.Core.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Azure.Identity.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Humanizer.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.ClientModel.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.CodeDom.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Memory.Data.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Runtime.Caching.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Domain.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Domain.pdb
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.AssemblyReference.cache
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfoInputs.cache
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfo.cs
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.CoreCompileInputs.cache
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\scopedcss\bundle\JobPortal_Project.styles.css
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.json
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\staticwebassets.development.json
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\swae.build.ex.cache
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPorta.80C73DC2.Up2Date
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\refint\JobPortal_Project.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.pdb
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.genruntimeconfig.cache
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\ref\JobPortal_Project.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\AutoMapper.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Scrutor.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.AssemblyReference.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfoInputs.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfo.cs
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.CoreCompileInputs.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.sourcelink.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\appsettings.Development.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\appsettings.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.staticwebassets.endpoints.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.exe
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.deps.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.runtimeconfig.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.pdb
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\AutoMapper.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Azure.Core.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Azure.Identity.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\BCrypt.Net-Next.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Humanizer.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\MailKit.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\MimeKit.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Scrutor.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.ClientModel.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.CodeDom.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Memory.Data.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Runtime.Caching.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Domain.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Domain.pdb
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.AssemblyReference.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfoInputs.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfo.cs
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.CoreCompileInputs.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.sourcelink.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\scopedcss\bundle\JobPortal_Project.styles.css
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\staticwebassets.development.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\swae.build.ex.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPorta.80C73DC2.Up2Date
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\refint\JobPortal_Project.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.pdb
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.genruntimeconfig.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\ref\JobPortal_Project.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\appsettings.Development.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\appsettings.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.staticwebassets.endpoints.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.exe
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.deps.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.runtimeconfig.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.pdb
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\AutoMapper.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Azure.Core.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Azure.Identity.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\BCrypt.Net-Next.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Humanizer.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\MailKit.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\MimeKit.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Scrutor.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.ClientModel.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.CodeDom.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Memory.Data.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Runtime.Caching.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Domain.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Domain.pdb
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.AssemblyReference.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfoInputs.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfo.cs
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.CoreCompileInputs.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\scopedcss\bundle\JobPortal_Project.styles.css
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\staticwebassets.development.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\swae.build.ex.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPorta.80C73DC2.Up2Date
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\refint\JobPortal_Project.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.pdb
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.genruntimeconfig.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\ref\JobPortal_Project.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\appsettings.Development.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\appsettings.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.staticwebassets.endpoints.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.exe
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.deps.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.runtimeconfig.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.pdb
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\AutoMapper.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Azure.Core.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Azure.Identity.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\BCrypt.Net-Next.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Humanizer.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\MailKit.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\MimeKit.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Scrutor.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.ClientModel.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.CodeDom.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Memory.Data.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Runtime.Caching.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Domain.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\bin\Debug\net10.0\Domain.pdb
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.AssemblyReference.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfoInputs.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfo.cs
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.CoreCompileInputs.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.sourcelink.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\scopedcss\bundle\JobPortal_Project.styles.css
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\staticwebassets.development.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\swae.build.ex.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPorta.80C73DC2.Up2Date
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\refint\JobPortal_Project.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.pdb
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.genruntimeconfig.cache
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project_FinalVersion\JobPortal_Project\obj\Debug\net10.0\ref\JobPortal_Project.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\appsettings.Development.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\appsettings.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.staticwebassets.endpoints.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.exe
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.deps.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.runtimeconfig.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.pdb
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\AutoMapper.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Azure.Core.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Azure.Identity.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\BCrypt.Net-Next.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Humanizer.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\MailKit.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\MimeKit.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Scrutor.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.ClientModel.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.CodeDom.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.Memory.Data.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.Runtime.Caching.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Domain.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\bin\Debug\net10.0\Domain.pdb
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.AssemblyReference.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfoInputs.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfo.cs
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.CoreCompileInputs.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\scopedcss\bundle\JobPortal_Project.styles.css
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\staticwebassets.development.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\swae.build.ex.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\JobPorta.80C73DC2.Up2Date
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\refint\JobPortal_Project.dll
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.pdb
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.genruntimeconfig.cache
+D:\sample works\dot net core\WebAPI\Main Project\JobPortal_Project_FinalVersion_v2\JobPortal_Project\obj\Debug\net10.0\ref\JobPortal_Project.dll
