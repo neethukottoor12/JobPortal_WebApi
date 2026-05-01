@@ -25,6 +25,11 @@ namespace Domain.Service.JobProvider
         {
             try
             {
+                var exist = await _context.Interviews.Where(a => a.ApplicationId == interview.ApplicationId).FirstOrDefaultAsync();
+                if(exist!=null)
+                {
+                    throw new Exception("Interview already scheduled for this application.");
+                }
                 JobApplication application = await _context.JobApplications.Where(a => a.Id == interview.ApplicationId).Include(e => e.JobPost).FirstOrDefaultAsync();
                 var seekerprofile = await _context.JobSeekerProfiles.Where(j => j.Id == application.JobSeekerProfileId).FirstOrDefaultAsync();
                 var seeker = await _context.JobSeekers.Where(s => s.Id == seekerprofile.JobSeekerId).FirstOrDefaultAsync();
@@ -41,7 +46,7 @@ namespace Domain.Service.JobProvider
             }
             catch (Exception ex)
             {
-                throw ex;
+                throw;
             }
         }
         public async Task<PagedList<Interview>> scheduledInterviewList(Guid companyid, InterviewParams param)

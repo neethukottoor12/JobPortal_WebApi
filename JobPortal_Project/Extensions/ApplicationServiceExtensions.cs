@@ -1,6 +1,8 @@
 ﻿using Domain.Helpers;
 using Domain.Models;
 using Domain.Service;
+using Domain.Service.Admin;
+using Domain.Service.Admin.Interfaces;
 using Domain.Service.Authuser;
 using Domain.Service.Authuser.Interfaces;
 using Domain.Service.Job;
@@ -47,6 +49,11 @@ namespace JobPortal_Project.Extensions
             services.Configure<MailSettings>(config.GetSection("MailSettings"));
 
             services.AddScoped<IAuthUserService, AuthUserService>();
+
+            //Admin
+
+            services.AddScoped<IAdminService,AdminService>();
+            services.AddScoped<IAdminRepository, AdminRepository>();
             return services;
         }
     }

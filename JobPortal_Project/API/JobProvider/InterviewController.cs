@@ -41,11 +41,11 @@ namespace JobPortal_Project.API.JobProvider
                 }
                 var interviewdto = mapper.Map<InterviewsheduleDtos>(interviewSheduleObject);
                 Interview interview = await _interviewService.scheduleinterview(interviewdto, user);
-                return Ok();
+                return Ok(interview);
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                return BadRequest(new { message = ex.Message });
             }
 
 

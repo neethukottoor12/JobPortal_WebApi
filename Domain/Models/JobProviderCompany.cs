@@ -7,6 +7,8 @@ namespace Domain.Models;
 public partial class JobProviderCompany
 {
     public Guid Id { get; set; }= Guid.NewGuid();
+    //public Guid ProviderId { get; set; }
+
 
     public string LegalName { get; set; } = null!;
 

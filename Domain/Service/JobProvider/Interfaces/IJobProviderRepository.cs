@@ -17,6 +17,8 @@ namespace Domain.Service.JobProvider.Interfaces
         public Task<bool> DeleteJob(Guid id);
         public Task<List<JobProviderCompany>> GetCompany(Guid jobproviderId);
         public Task<List<JobApplication>> GetAllJobApplicants(Guid jobproviderId);
+        public Task<JobPost> GetJobsById(Guid id);
+        public Task<JobApplication?> GetApplicantDetailsAsync(Guid applicationId);
 
     }
 }

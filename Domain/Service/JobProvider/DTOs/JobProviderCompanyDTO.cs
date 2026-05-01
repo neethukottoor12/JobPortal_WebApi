@@ -1,16 +1,17 @@
-﻿using Domain.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Domain.Service.JobProvider.DTOs
 {
-    public class GetCompanyDetailsDto
+    public class JobProviderCompanyDTO
     {
+        public Guid Id { get; set; }
         public string LegalName { get; set; } = null!;
 
         public string Summary { get; set; } = null!;
-        public Guid Industry { get; set; } 
+
+        public Guid Industry { get; set; }
 
         public string Email { get; set; } = null!;
 
@@ -19,6 +20,8 @@ namespace Domain.Service.JobProvider.DTOs
         public string Address { get; set; } = null!;
 
         public string Website { get; set; } = null!;
+
         public Guid Location { get; set; }
+       
     }
 }

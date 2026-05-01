@@ -34,7 +34,7 @@ namespace Domain.Service.JobProvider
             MailRequest mailRequest = new MailRequest()
             {
                 Subject = "HireMeNow SignUp Verification",
-                Body = "http://localhost:56067/set-password?signupid=" + signupId.ToString(),
+                Body = "http://localhost:4200/confirmpassword?signupid=" + signupId.ToString(),
                 ToEmail = signuprequest.Email
             };
             await emailService.SendEmailAsync(mailRequest);
@@ -142,6 +142,14 @@ namespace Domain.Service.JobProvider
         public async Task<List<JobApplication>> GetAllJobApplicants(Guid jobproviderId)
         {
             return await jobProviderRepository.GetAllJobApplicants(jobproviderId);
+        }
+        public async Task<JobPost> GetJobsById(Guid id)
+        {
+            return await jobProviderRepository.GetJobsById(id);
+        }
+        public async Task<JobApplication?> GetApplicantDetailsAsync(Guid applicationId)
+        {
+            return await jobProviderRepository.GetApplicantDetailsAsync(applicationId);
         }
     }
 }

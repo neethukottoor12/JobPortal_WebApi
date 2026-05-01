@@ -105,7 +105,7 @@ namespace JobPortal_Project.API.JobProvider
             {
                 var job = mapper.Map<JobPost>(request);
                 Guid id = await _jobProviderService.PostJob(job, request.Responsibilities, request.SkillIds, request.QualificationIds);
-                return Ok("The job id for the posted job is" + id);
+                return Ok(new { jobId = id, message = "Job posted successfully" });
             }
             catch (Exception ex)
             {
@@ -231,7 +231,55 @@ namespace JobPortal_Project.API.JobProvider
                 return BadRequest(ex.Message);
             }
         }
-       
+
+        [HttpGet]
+        [AllowAnonymous]
+        [Route("job-provider/{jobproviderId}/getCompany")]
+        public async Task<IActionResult> GetCompany(Guid jobproviderId)
+        {
+            try
+            {
+                List<JobProviderCompany> companies = await _jobProviderService.GetCompany(jobproviderId);
+                return Ok(mapper.Map<List<JobProviderCompanyDTO>>(companies));
+
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+
+        }
+
+        [HttpGet]
+        [AllowAnonymous]
+        [Route("job-provider/{jobpostId}/getJobpostById")]
+        public async Task<IActionResult> GetJobById(Guid jobpostId)
+        {
+            try
+            {
+                JobPost job = await _jobProviderService.GetJobsById(jobpostId);
+                return Ok(mapper.Map<UpdateJobPostDtos>(job));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+        [HttpGet]
+        [AllowAnonymous]
+        [Route("job-provider/applicant/{applicationId}")]
+        public async Task<IActionResult> GetApplicantDetails(Guid applicationId)
+        {
+            var applicant = await _jobProviderService.GetApplicantDetailsAsync(applicationId);
+
+            if (applicant == null)
+                return NotFound("Applicant not found");
+
+            var dto = mapper.Map<ApplicantDetailsDto>(applicant);
+            return Ok(dto);
+        }
+
+
 
     }
 }

@@ -66,7 +66,30 @@ namespace Domain.Service.JobProvider
         }
         public async Task<List<JobPost>> GetAllJobsByProvider(Guid companyId, Guid jobproviderId)
         {
-            return await context.JobPosts.Where(c=>c.CompanyId==companyId&&c.PostedBy==jobproviderId).ToListAsync();
+            return await context.JobPosts.Where(c=>c.CompanyId==companyId&&c.PostedBy==jobproviderId)
+                .Include(j=>j.Location)
+                .Include(j=>j.Category)
+                .Include(j=>j.Industry)
+                .Include(j=>j.Company)
+                .Include(j=>j.JobResponsibilities)
+                .Include(j=>j.JobPostQualifications).ThenInclude(q=>q.Qualification)
+                .Include(j=>j.JobPostSkills).ThenInclude(s=>s.Skill)
+
+                .ToListAsync();
+        }
+        public async Task<JobPost> GetJobsById(Guid id)
+        {
+            var Job= await context.JobPosts.Include(j => j.Location)
+                .Include(j => j.Category)
+                .Include(j => j.Industry)
+                .Include(j => j.Company)
+                .Include(j => j.JobResponsibilities)
+                .Include(j => j.JobPostQualifications).ThenInclude(q => q.Qualification)
+                .Include(j => j.JobPostSkills).ThenInclude(s => s.Skill).Where(j=>j.Id==id).FirstOrDefaultAsync()
+                ;
+            return Job;
+
+
         }
         public async Task<JobPost> UpdateAsync(JobPost Updatedjob, Guid id)
         {
@@ -167,8 +190,9 @@ namespace Domain.Service.JobProvider
             
 
             var companies = await context.JobProviderCompanies
-      .Where(e => e.Id == companyId)
-      .ToListAsync();
+                
+            .Where(e => e.Id == companyId)
+            .ToListAsync();
 
 
             return companies;
@@ -182,14 +206,40 @@ namespace Domain.Service.JobProvider
             var jobposts=await context.JobPosts.Where(j=>j.CompanyId == companyid).ToListAsync();
             var jobpostIds=jobposts.Select(j=>j.Id).ToList();
             var jobapplications = await context.JobApplications
-                .Include(ja => ja.Resume)
-                .Include(ja => ja.Seeker)
                 .Include(ja => ja.JobPost)
+                .Include(ja => ja.Seeker) // Applicant details (JobSeeker)
+                .Include(ja => ja.JobSeekerProfile)
+                .ThenInclude(p => p.JobSeekerImage)
+                .Include(ja => ja.JobSeekerProfile)
+                .ThenInclude(p => p.ProfileQualification)
+                .ThenInclude(pq => pq.Qualification)
+                .Include(ja => ja.JobSeekerProfile)
+                .ThenInclude(p => p.WorkExperiences)
                 .Where(ja => jobpostIds.Contains(ja.JobPostId))
                 .ToListAsync();
             return jobapplications;
 
         }
+        public async Task<JobApplication?> GetApplicantDetailsAsync(Guid applicationId)
+        {
+            return await context.JobApplications
+                .Include(a => a.Seeker)
+                .Include(a => a.JobPost)
+                .Include(a => a.JobSeekerProfile)
+                    .ThenInclude(p => p.JobSeekerImage)
+                .Include(a => a.JobSeekerProfile)
+                    .ThenInclude(p => p.Resume)
+                .Include(a => a.JobSeekerProfile)
+                    .ThenInclude(p => p.ProfileQualification)
+                        .ThenInclude(q => q.Qualification)
+                .Include(a => a.JobSeekerProfile)
+                    .ThenInclude(p => p.ProfileSkill)
+                        .ThenInclude(s => s.Skill)
+                .Include(a => a.JobSeekerProfile)
+                    .ThenInclude(p => p.WorkExperiences)
+                .FirstOrDefaultAsync(a => a.Id == applicationId);
+        }
+
 
     }
 }

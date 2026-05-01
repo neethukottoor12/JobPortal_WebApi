@@ -92,6 +92,7 @@ namespace JobPortal_Project.API.JobSeeker
 
                 // Convert file to byte[] for DB storage
                 using var memoryStream = new MemoryStream();
+                await dto.ResumeFile.CopyToAsync(memoryStream);
                 var resumeid = profileservice.LoadResume(memoryStream, dto.Title, dto.JobSeekerProfileId);
 
                 return Ok(new { message = "Resume uploaded successfully", resumeid });
@@ -117,8 +118,9 @@ namespace JobPortal_Project.API.JobSeeker
 
                 // Convert file to byte[] for DB storage
                 using var memoryStream = new MemoryStream();
+                
                 var resumeid = profileservice.UpdateResume(memoryStream, dto.Title, dto.JobSeekerProfileId);
-
+                await dto.ResumeFile.CopyToAsync(memoryStream);
                 return Ok(new { message = "Resume updated successfully", resumeid });
             }
             catch (Exception ex)
@@ -144,6 +146,7 @@ namespace JobPortal_Project.API.JobSeeker
                     return BadRequest("No file uploaded");
 
                 using var memoryStream = new MemoryStream();
+                await imageDto.File.CopyToAsync(memoryStream);
                 var imageSeekerID = profileservice.LoadImage(memoryStream, imageDto.FileName, imageDto.ContentType, imageDto.JobSeekerProfileId);
                 return Ok(new { message = "Image uploaded successfully", imageSeekerID });
             }
